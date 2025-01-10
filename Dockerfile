@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8501
 
 # Comando para rodar o aplicativo Flet
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
